@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{DE8FA4F0-BB42-24BF-B252-68E11084A510}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Combat/Fighter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Movement/Mover.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/Control/playerController.cs" />
+      <File FileName="Assets/Scripts/Combat/Fighter.cs" Line="50" Column="14" />
+      <File FileName="Assets/Scripts/Combat/Combattarget.cs" />
+      <File FileName="Assets/Scripts/Core/ActionScheduler.cs" />
+      <File FileName="Assets/Scripts/Core/IAction.cs" />
+      <File FileName="Assets/Scripts/Combat/Health.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3f3957a2-8e10-448a-b270-075d8dffb62b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

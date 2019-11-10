@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{70A8B290-2F39-6C87-D7CE-F35ADD8689BF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/enemy.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Utility/WaypointCircuit.cs" Line="65" Column="14" />
+      <File FileName="Assets/scripts/levelLoad.cs" />
+      <File FileName="Assets/scripts/MusicPLayer.cs" />
+      <File FileName="Assets/scripts/collisisonHandler.cs" />
+      <File FileName="Assets/scripts/PlayerController.cs" />
+      <File FileName="Assets/scripts/enemy.cs" Line="37" Column="29" />
+      <File FileName="Assets/scripts/ScoreBoard.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="99118a69-f9d1-46e3-a718-4112516830e4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
